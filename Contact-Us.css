@@ -1,0 +1,73 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url("images/yamaha-warrior-1700-728x410.jpg.webp");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 364px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 170px 0 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 338px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 374px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 370px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 351px;
+}
+
+.u-section-2 .u-map-1 {
+  width: 1140px;
+  height: 351px;
+  margin: -1px 0 1px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-map-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-map-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-map-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 295px;
+  }
+
+  .u-section-2 .u-map-1 {
+    width: 340px;
+  }
+}
